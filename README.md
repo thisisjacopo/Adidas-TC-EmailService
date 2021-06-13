@@ -42,5 +42,5 @@ To compose docker: `$ docker-compose up` and once finished `$ docker-compose dow
 
 ## Documentation:
 
-The swagger documentation and endpoints can be found at app running `http:localhost:3002/api` 
+The swagger documentation and endpoints can be found at app running `http:localhost:5000/api` 
 
